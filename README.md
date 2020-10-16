@@ -1,4 +1,4 @@
-# sudame codes
+# mentor codes
 
 ## これは何
 - 質問に対する答えになりそうなコードのヒント集
