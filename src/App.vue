@@ -1,7 +1,7 @@
 <template>
   <div>
     <a
-      href="https://twitter.com/intent/tweet?hashtags=sudame,twitter"
+      href="https://twitter.com/intent/tweet?hashtags=sudame,twitter&text=hogehoge"
       target="_blank"
       >ツイートしろ</a
     >
