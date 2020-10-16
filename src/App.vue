@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <a
+      href="https://twitter.com/intent/tweet?hashtags=sudame,twitter"
+      target="_blank"
+      >ツイートしろ</a
+    >
+  </div>
+</template>
